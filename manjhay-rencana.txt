@@ -1,3 +1,5 @@
 rencana manjhay
-belajar javascipt
+belajar javascript
+*ES6
+*Frame work Javascript
 PHP
